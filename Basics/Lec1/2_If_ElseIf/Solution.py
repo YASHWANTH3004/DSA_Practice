@@ -11,5 +11,5 @@ class Solution:
         else:
             print("Fail")
     
-marks = int(input())
+marks = int(input("Enter your Mark : "))
 Solution().studentGrade(marks)
